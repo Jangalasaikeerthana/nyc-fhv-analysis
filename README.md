@@ -33,6 +33,10 @@ have a significant presence in the market.
 - Git & GitHub
 ## Charts
 <img width="577" height="587" alt="image" src="https://github.com/user-attachments/assets/844c0a5e-75ef-4e00-95c1-421975884e5d" />
+<img width="782" height="461" alt="image" src="https://github.com/user-attachments/assets/6f57fa41-1167-4936-99bf-1288d71cdc65" />
+<img width="1213" height="814" alt="image" src="https://github.com/user-attachments/assets/8461d439-7027-4c4b-a314-bde86adba25c" />
+
+
 
 ## Data Source
 Inside Airbnb — Albany, New York(https://insideairbnb.com/)
